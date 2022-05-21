@@ -9,6 +9,7 @@ Pour cloner le projet en local sur votre machine,
 - En local dans git bash lancez la commande suivante :
 git clone <adresse copiée>
 
-Modification faite dans vs code
+Voir les principales commandes de git dans le wiki
+
 
 
